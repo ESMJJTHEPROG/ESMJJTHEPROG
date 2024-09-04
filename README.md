@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ESMJJTHEPROG
 - 👀 I’m interested in programmin'
-- 🌱 I’m currently learning c#
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning python
 - 📫 How to reach me TG @chipoll1no
 - 😄 Pronouns: mi-8
 - ⚡ Fun fact: Pisya popa 
